@@ -17,5 +17,5 @@ fwrite($fp, '<?php
 ); 
 ?>');
 fclose($fp);
-
+//the new password wil be Youssefadmin
 ?>
